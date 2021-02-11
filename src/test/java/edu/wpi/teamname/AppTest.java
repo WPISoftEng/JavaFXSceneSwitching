@@ -3,7 +3,6 @@ package edu.wpi.teamname;
 import static org.testfx.api.FxAssert.verifyThat;
 
 import javafx.scene.Node;
-import javafx.scene.control.Label;
 import javafx.scene.input.KeyCode;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
